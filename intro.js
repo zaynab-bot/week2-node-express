@@ -1,0 +1,1 @@
+console.log("name:zaynab, age:15, favourite programming language:java scrirpt!")
